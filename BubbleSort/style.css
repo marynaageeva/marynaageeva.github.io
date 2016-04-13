@@ -1,0 +1,36 @@
+form {
+  width: 400px;
+  height: 300px;
+  margin: 50px 300px;
+  padding: 40px 100px;
+  background-color : lightcyan;
+  display: block;
+}
+
+#text-field {
+  width: 350px;
+  height: 50px;
+  background-color: #fcf8e3;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+#sort-numb {
+  width: 400px;
+  height: 50px;
+  margin-top: 30px;
+  max-width: 400px;
+  position: absolute;
+}
+
+.numb {
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+  background: khaki;
+  border: 1px solid black;
+  display: inline;
+  position: relative;
+}
+
+
