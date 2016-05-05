@@ -1,0 +1,37 @@
+
+.finish {
+	width: 100%;
+	height: 100%;
+	padding-top: 20%; 
+	position: fixed;	
+	font-size: 80px;
+	font-weight: bold;
+	text-align: center;
+	color: black;
+	z-index: 9999;
+	background: rgba(70, 130, 180, .8);
+
+}
+
+.fail {
+	font-size: 70px;
+}
+
+.finish-fail {
+	background: rgba(255, 0, 0, .8);	
+}
+
+.congratulation {
+	font-size: 70px;
+	color: gold;
+}
+
+.new-game {
+	font-size: 40px;
+	color: yellow;
+}
+
+.new-game:hover {
+	cursor: pointer;
+	color: grey;
+}
